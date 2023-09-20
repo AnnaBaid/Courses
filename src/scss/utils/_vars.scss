@@ -1,0 +1,20 @@
+// breakpoints
+$desktop-small: 1200px;
+$tablet: 992px;
+$tablet-small: 768px;
+$mobile: 576px;
+
+:root {
+	--ff: 'Unica One', cursive;
+	--ff-second: 'Vollkorn', serif;
+	--transition: .2s all ease-in-out;
+
+	--c-primary: #353535;
+	--c-text: #1D212F;
+	--c-plas: #720808a9;
+	--c-text-white: #fff;
+	--c-btn: #353535;
+
+	--header-bg: #FFFFDEAD;
+	--body-bg: #F5F5F5;
+}

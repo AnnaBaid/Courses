@@ -1,0 +1,31 @@
+// vendors
+@import 'vendors/reset';
+
+// utils
+@import 'utils/vars';
+@import 'utils/mixins';
+
+// layout
+@import 'layout/base';
+@import 'layout/scroll';
+@import 'layout/grid';
+
+
+@import 'plugins/owl.carousel';
+@import 'plugins/owl.theme.default';
+@import 'plugins/carousel';
+// components
+@import 'components/ui/btn';
+@import 'components/ui/animation';
+@import 'components/ui/common';
+@import 'components/header';
+@import 'components/footer';
+@import 'components/section-main';
+@import 'components/section-why';
+@import 'components/section-course';
+@import 'components/section-teachers';
+@import 'components/section-exp';
+@import 'components/section-reviews';
+
+
+
